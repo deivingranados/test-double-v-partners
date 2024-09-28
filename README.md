@@ -40,9 +40,9 @@ Este proyecto es una aplicación web desarrollada con **React** y **TypeScript**
 
 El proyecto sigue una estructura de carpetas organizada para separar los componentes, las páginas, los servicios y los modelos de datos. A continuación se describe cada parte:
 
-- **components/**: Contiene los componentes reutilizables de la interfaz de usuario, como botones, formularios, etc.
-- **pages/**: Contiene las páginas principales de la aplicación, como la página de inicio, perfil de usuario, etc.
-- **services/**: Contiene los servicios que se encargan de hacer las solicitudes HTTP a la API de GitHub.
+- **components/**: Contiene los componentes reutilizables de la interfaz de usuario, como el formulario .
+- **pages/**: Contiene la página principal de la aplicación, como la página de inicio, perfil de usuario.
+- **services/**: Contiene el servicio que se encarga de hacer las solicitud HTTP a la API de GitHub.
 - **models/**: Aquí se define la interfaz de los datos que se obtienen de la API, asegurando el uso de tipado estático con TypeScript.
 
 ## Funcionalidades
